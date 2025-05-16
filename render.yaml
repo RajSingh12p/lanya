@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: lanya
+    name: Do or die
     env: node
     plan: free
     buildCommand: bun install
